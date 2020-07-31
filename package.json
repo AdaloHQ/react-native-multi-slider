@@ -1,6 +1,6 @@
 {
-  "name": "@ptomasroos/react-native-multi-slider",
-  "version": "2.2.2",
+  "name": "@adalo/react-native-multi-slider",
+  "version": "2.2.3-alpha.0",
   "description": "Android and iOS supported pure JS slider component with multiple markers for React Native",
   "main": "MultiSlider.js",
   "types": "index.d.ts",
@@ -44,7 +44,8 @@
   "devDependencies": {
     "husky": "^1.1.2",
     "lint-staged": "^7.3.0",
-    "prettier": "^1.14.3"
+    "prettier": "^1.14.3",
+    "prop-types": "^15.7.2"
   },
   "bugs": {
     "url": "https://github.com/ptomasroos/react-native-multi-slider/issues"
